@@ -6,7 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://g
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 HANG ZHANG built the Grid Tales app as a Commercial app. This SERVICE is provided by HANG ZHANG and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
@@ -15,7 +14,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Grid Tales unless otherwise defined in this Privacy Policy.
 
-##Information Collection and Use
+### Information Collection and Use
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to LeHuang, Zhang Hang. The information that I request will be retained on your device and is not collected by me in any way.
 
