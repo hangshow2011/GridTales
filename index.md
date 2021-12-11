@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/hangshow2011/GridTales/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://github.com/hangshow2011/GridTales/blob/gh-pages/index.md) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Contribution guidelines for this project](./policy.md)
+[Privacy Policy](./policy.md)
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](./Adverting2_460_215.png)
 
 ### Privacy Policy
 

@@ -1,17 +1,5 @@
-## Grid Tales
 
-You can use the [editor on GitHub](https://github.com/hangshow2011/GridTales/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://github.com/hangshow2011/GridTales/blob/gh-pages/index.md) to rebuild the pages in your site, from the content in your Markdown files.
-
-If you have any questions, please contact us by this email and we give reply to you as soon as possible.
-Email: 
-
-[Contribution guidelines for this project](./policy.md)
-
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
-### Privacy Policy
+## Privacy Policy
 
 HANG ZHANG built the Grid Tales app as a Commercial app. This SERVICE is provided by HANG ZHANG and is intended for use as is.
 
@@ -72,25 +60,6 @@ This policy is effective as of 2021-12-12
 ### Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at 909715631@qq.com.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-Privacy Policy
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
