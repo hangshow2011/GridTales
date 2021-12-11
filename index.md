@@ -11,11 +11,7 @@ If you have any questions, please contact us by this email and we give reply to 
 
 ![an image](./Adverting2_460_215.png)
 
-- [ ] \(Optional) open a followup issue
-
-:-1:
-
-```
+```markdown
 
 **Bold** and _Italic_ and `Code` text
 ```
