@@ -59,12 +59,5 @@ This policy is effective as of 2021-12-12
 
 ### Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at 909715631@qq.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at 909715631@qq.com or abczhanghang@gmail.com.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hangshow2011/GridTales.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

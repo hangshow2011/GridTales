@@ -4,7 +4,9 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://weibo.com/zhangahang) to rebuild the pages in your site, from the content in your Markdown files.
 
-@github/support What do you think about these updates?
+If you have any questions, please contact us by this email and we give reply to you as soon as possible.
+E-mail1: abczhanghang@gmail.com
+E-mail2: 909715631@qq.com
 
 [Privacy Policy](./policy.md)
 
