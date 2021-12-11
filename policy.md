@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/hangshow2011/GridTales/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://github.com/hangshow2011/GridTales/blob/gh-pages/index.md) to rebuild the pages in your site, from the content in your Markdown files.
 
+If you have any questions, please contact us by this email and we give reply to you as soon as possible.
+Email: 
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ### Privacy Policy
 
 HANG ZHANG built the Grid Tales app as a Commercial app. This SERVICE is provided by HANG ZHANG and is intended for use as is.
