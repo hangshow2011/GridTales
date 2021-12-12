@@ -4,10 +4,8 @@
 
  If you have any questions, please contact us by this email and we give reply to you as soon as possible.
 
-1. E-mail: [abczhanghang@gmail.com](abczhanghang@gmail.com)
-2. E-mail: [909715631@qq.com](909715631@qq.com) 
-
-
+1. E-mail: <abczhanghang@gmail.com>
+2. E-mail: <909715631@qq.com>
 
 ### What's news
 - 2021/12/25
