@@ -59,5 +59,5 @@ This policy is effective as of 2021-12-12
 
 ### Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at 909715631@qq.com or abczhanghang@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at <909715631@qq.com> or <abczhanghang@gmail.com>.
 
