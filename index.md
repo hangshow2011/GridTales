@@ -11,10 +11,10 @@
 
 ### What's news
 - 2021/12/25
-1. Can be download On Steam ![steam](./Icon_steam.png) now.
+  1. Can be download On Steam ![steam](./Icon_steam.png) now.
 
 - 2021/12/12
-1. Game pad ![pad](./Icon_pad.png) are now supported.
+  1. Game pad ![pad](./Icon_pad.png) are now supported.
 
 <!-- For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
 ### Privacy Policy
