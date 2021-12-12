@@ -11,7 +11,6 @@
 
 ### What's news
 - 2021/12/25
-
 1. Can be download On Steam ![steam](./Icon_steam.png) now.
 
 - 2021/12/12
