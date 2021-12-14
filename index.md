@@ -8,7 +8,7 @@
 2. E-mail: <909715631@qq.com>
 
 ### What's news
-- 2021/12/25
+- 2021/12/15
   - Can be download On Steam ![steam](./Icon_steam.png) now.
 
 - 2021/12/12
