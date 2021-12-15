@@ -11,7 +11,7 @@
 - 2021/12/15
   - Can be download On Steam ![steam](./Icon_steam.png) now.
 
-  - 2021/12/14
+- 2021/12/14
   - Can be download On App Store ![App Store](./Icon_appstore.png) now.
 
 - 2021/12/12
