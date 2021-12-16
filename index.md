@@ -8,6 +8,9 @@
 2. E-mail: <909715631@qq.com>
 
 ### What's news
+- 2021/12/16
+  - Can be download On Google Play ![Google play](./Icon_google.png) now.
+
 - 2021/12/15
   - Can be download On Steam ![steam](./Icon_steam.png) now.
 
