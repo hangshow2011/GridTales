@@ -9,13 +9,13 @@
 
 ### What's news
 - 2021/12/16
-  - Can be download On Google Play ![Google play](./Icon_google.png) now.
+  - Can be download On [Google Play](https://play.google.com/store/apps/details?id=com.lehuan.GridTales) ![Google play](./Icon_google.png) now.
 
 - 2021/12/15
-  - Can be download On Steam ![steam](./Icon_steam.png) now.
+  - Can be download On [Steam](https://store.steampowered.com/app/1739940/Grid_Tales/) ![steam](./Icon_steam.png) now.
 
 - 2021/12/14
-  - Can be download On App Store ![App Store](./Icon_appstore.png) now.
+  - Can be download On [App Store](https://apps.apple.com/app/id1597284793) ![App Store](./Icon_appstore.png) now.
 
 - 2021/12/12
   - Game pad ![pad](./Icon_pad.png) are now supported.
