@@ -9,7 +9,7 @@
 
 ### What's news
 - 2021/12/17
-  - Can be download On Microsoft Store ![Microsoft Store](./Icon_microsoft.png) now.
+  - Can be download On [Microsoft Store](https://www.microsoft.com/zh-cn/p/%E6%A0%BC%E5%AD%90%E4%BC%A0%E8%AF%B4/9nbzgwptsvl8) ![Microsoft Store](./Icon_microsoft.png) now.
   - Can be download On [Xbox](https://www.xbox.com/en-us/games/store/grid-tales/9nbzgwptsvl8) now.
 
 - 2021/12/16
