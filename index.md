@@ -9,6 +9,9 @@
 
 ### What's news
 - 2021/12/16
+  - Can be download On [Microsofe Store](https://partner.microsoft.com/dashboard/products/9NBZGWPTSVL8/overview) ![Microsofe Store](./Icon_microsoft.png) now.
+
+- 2021/12/16
   - Can be download On [Google Play](https://play.google.com/store/apps/details?id=com.lehuan.GridTales) ![Google play](./Icon_google.png) now.
 
 - 2021/12/15
