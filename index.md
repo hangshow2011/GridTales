@@ -10,7 +10,7 @@
 ### What's news
 - 2021/12/17
   - Can be download On [Microsoft Store](https://www.microsoft.com/zh-cn/p/%E6%A0%BC%E5%AD%90%E4%BC%A0%E8%AF%B4/9nbzgwptsvl8) ![Microsoft Store](./Icon_microsoft.png) now.
-  - Can be download On [Xbox](https://www.xbox.com/en-us/games/store/grid-tales/9nbzgwptsvl8) now.
+  - Can be download On [Xbox Live](https://www.xbox.com/en-us/games/store/grid-tales/9nbzgwptsvl8) ![Xbox Live](./Icon_xbox.png) now.
 
 - 2021/12/16
   - Can be download On [Google Play](https://play.google.com/store/apps/details?id=com.lehuan.GridTales) ![Google play](./Icon_google.png) now.
