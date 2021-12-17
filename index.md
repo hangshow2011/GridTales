@@ -9,7 +9,8 @@
 
 ### What's news
 - 2021/12/17
-  - Can be download On [Microsofe Store](https://partner.microsoft.com/dashboard/products/9NBZGWPTSVL8/overview) ![Microsofe Store](./Icon_microsoft.png) now.
+  - Can be download On Microsofe Store ![Microsofe Store](./Icon_microsoft.png) now.
+  - Can be download On [Xbox](https://www.xbox.com/en-us/games/store/grid-tales/9nbzgwptsvl8) now.
 
 - 2021/12/16
   - Can be download On [Google Play](https://play.google.com/store/apps/details?id=com.lehuan.GridTales) ![Google play](./Icon_google.png) now.
