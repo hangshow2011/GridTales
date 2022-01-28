@@ -7,6 +7,7 @@
 1. E-mail: <abczhanghang@gmail.com>
 2. E-mail: <909715631@qq.com>
 3. Bilibil Social sites: [zhang阿hang](https://space.bilibili.com/245750180) ![bilibili](./Icon_bilibili.png) 
+4. Join QQ group: [103729508](https://jq.qq.com/?_wv=1027&k=CHDCsepW) ![QQ群](./Icon_qq.png) 
 
 ### What's news
 - 2021/12/17
